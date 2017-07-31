@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <style><endnote><head>
+<style><endnote><head>
+<style><endnote><head>
+<style></style>
+</head>
+<body>
+<style type="text/css"><!--
+#kdwhdTOP-BAR { width: 960px; height: 31px; line-height: 31px; color: #ffffff; background-image:url(http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-bar.GIF); background-repeat: no-repeat; font-family: verdana, geneva, sans-serif; font-weight: bold; text-align: center; margin-left: auto; margin-right: auto; font-size: 13px; }
+#kdwhdLOGO { width: 960px; height: 201px; background-image:url(http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/logo.jpg); background-repeat: no-repeat; margin-left: auto; margin-right: auto; font-size: 13px; margin-top: 3px; margin-bottom: 3px; }
+#kdwhdTOLLFREE { color: #fa0539; font-size: 18px; padding-top: 106px; margin-right: 307px; text-align: right; font-family: verdana, geneva, sans-serif; font-weight: bold; }
+table#kdwhdTOPLINKS { margin-left: auto; margin-right: auto; }
+td#kdwhdCOLLEFT { width: 200px; vertical-align: top; }
+div.kdwhdCOLLEFTBG { background-image: url(http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/background.JPG); width: 188px; padding: 6px; }
+div.kdwhdCOLRIGHTBG { background-image: urlhttp://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/background.JPG); width: 735px; padding: 6px; }
+td#kdwhdSEARCHBOX { background-image: url(http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/search_05.JPG); width: 176px; height: 22px; }
+#kdwhdSEARCHINPUT { height: 20px; width: 174px; font-family: verdana, geneva, sans-serif; font-size: 11px; color: #171717; border: 0px; background: none; display: inline; }
+table#kdwhdNAVTABLE { margin-top: 6px; }
+td#kdwhdNAVBACK { background-image: url(http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/categories_02.JPG); background-repeat: repeat-y; width: 188px; }
+#kdwhdNAVPADDING { padding: 0px 6px 0px 6px; width: 176px; }
+table#kdwhdNEWSTABLE { margin-top: 6px; }
+td#kdwhdNEWSBACK { background-image: url(http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/newsletter_02.JPG); background-repeat: repeat-y; width: 188px; }
+#kdwhdNEWSTEXT { padding: 6px; font-family: verdana, geneva, sans-serif; font-size: 12px; line-height: 17px; color: #171717; }
+table#kdwhdSIDEBOX { margin-top: 6px; }
+td#kdwhdSIDEBOX1 { background-image: url(http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/side_box_1_02.GIF); background-repeat: repeat-y; width: 188px; }
+#kdwhdSIDEBOX1PADDING { padding: 0px 7px 0px 7px; }
+#kdwhdSIDEBOX1TEXT { font-family: verdana, geneva, sans-serif; font-weight: bold; text-align: center; font-size: 13px; line-height: 18px; color: #ffffff; }
+#kdwhdSIDEBOX1PHONE { font-family: verdana, geneva, sans-serif; font-weight: bold; text-align: center; font-size: 20px; color: #ffffff; margin-top: 6px; letter-spacing: -1px; }
+#kdwhdSIDEBOX1EMAIL { font-family: verdana, geneva, sans-serif; text-align: center; font-size: 12px; color: #ffffff; margin-top: 6px; }
+#kdwhdSIDEBOX1EMAIL a:link, #kdwhdSIDEBOX1EMAIL a:visited { font-family: verdana, geneva, sans-serif; font-size: 12px; color: #ffffff; text-decoration: none; }
+#kdwhdSIDEBOX1EMAIL a:hover { font-family: verdana, geneva, sans-serif; font-size: 12px; color: #ffffff; text-decoration: underline; }
+#kdwhdSIDEBOX1EMAIL a:active { font-family: verdana, geneva, sans-serif; font-size: 12px; color: #ffffff; text-decoration: none; }
+.kdwhdCAT1 { font-family: verdana, geneva, sans-serif; font-size: 12px; color: #384b86; font-weight: bold; line-height: 26px; border-bottom: 1px solid #c6d0e2; background-image: url(http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/cat_bullet1.JPG); background-repeat: no-repeat; display: block; }
+.kdwhdCAT1 a:link, .kdwhdCAT1 a:visited { font-family: verdana, geneva, sans-serif; font-size: 12px; color: #384b86; font-weight: bold; text-decoration: none; padding-left: 12px; }
+.kdwhdCAT1 a:hover { font-family: verdana, geneva, sans-serif; font-size: 12px; color: #384b86; font-weight: bold; text-decoration: none; background-image: url(http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/cat_bullet1-over.jpg); background-repeat: no-repeat; width: 176px; display: block; }
+.kdwhdCAT1 a:active { font-family: verdana, geneva, sans-serif; font-size: 12px; color: #384b86; font-weight: bold; text-decoration: none; }
+.kdwhdCAT2 { font-family: verdana, geneva, sans-serif; font-size: 12px; color: #384b86; line-height: 26px; border-bottom: 1px solid #c6d0e2; background-image: url(http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/cat_bullet2.JPG); background-repeat: no-repeat; display: block; }
+.kdwhdCAT2 a:link, .kdwhdCAT2 a:visited { font-family: verdana, geneva, sans-serif; font-size: 12px; color: #384b86; text-decoration: none; padding-left: 24px; }
+.kdwhdCAT2 a:hover { font-family: verdana, geneva, sans-serif; font-size: 12px; color: #384b86; text-decoration: none; background-image: urlhttp://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/cat_bullet2.JPG); background-repeat: no-repeat; width: 176px; display: block; }
+.kdwhdCAT2 a:active { font-family: verdana, geneva, sans-serif; font-size: 12px; color: #384b86; text-decoration: none; }
+.kdwhdCAT3 { font-family: verdana, geneva, sans-serif; font-size: 12px; color: #6a6a6a; line-height: 26px; border-bottom: 1px solid #c6d0e2; background-image: url(http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/cat_bullet3.JPGpg); background-repeat: no-repeat; display: block; }
+.kdwhdCAT3 a:link, .kdwhdCAT3 a:visited { font-family: verdana, geneva, sans-serif; font-size: 12px; color: #6a6a6a; text-decoration: none; padding-left: 36px; }
+.kdwhdCAT3 a:hover { font-family: verdana, geneva, sans-serif; font-size: 12px; color: #6a6a6a; text-decoration: none; background-image: url(http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/cat_bullet3-over.JPG); background-repeat: no-repeat; width: 176px; display: block; }
+.kdwhdCAT3 a:active { font-family: verdana, geneva, sans-serif; font-size: 12px; color: #6a6a6a; text-decoration: none; }
+-->
+</style>
+<div id="kdwhdTOP-BAR">&nbsp;</div>
+<div id="kdwhdLOGO">
+<div id="kdwhdTOLLFREE">TOLL FREE: 1-800-557-7095</div>
+</div>
+<table id="kdwhdTOPLINKS" border="0" cellpadding="0"
+ cellspacing="0" width="960">
+  <tbody>
+    <tr>
+      <td><a href="http://stores.ebay.com/CaratsDirect2U"
+ title="Store Home"><img
+ src="http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links_01.GIF"
+ style="border: 0px none ;" name="newimage1"
+ onmouseover="document.newimage1.src='sftp://Canonphotos1@www.caratsdirect2u.com:2222/Dont-delete/ebay/top-links-over_01.GIF';"
+ onmouseout="document.newimage1.src='http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links_01.GIF';"
+ height="31" width="147"></a></td>
+      <td><img
+ src="http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links_02.GIF"
+ height="31" width="2"></td>
+      <td><a
+ href="http://members.ebay.com/ws/eBayISAPI.dll?ViewUserPage&amp;userid=seli1020"
+ title="About Us"><img
+ src="http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links_03.GIF"
+ style="border: 0px none ;" name="newimage3"
+ onmouseover="document.newimage3.src='http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links-over_03.GIF';"
+ onmouseout="document.newimage3.src='http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links_03.GIF';"
+ height="31" width="117"></a></td>
+      <td><img
+ src="http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links_04.GIF"
+ height="31" width="2"></td>
+      <td><a
+ href="http://stores.ebay.com/CaratsDirect2U_2009-CaratsDirect2U-Collection_W0QQ_fsubZ461534010QQ_sidZ593550760QQ_trksidZp4634Q2ec0Q2em322"
+ title="CaratsDirect2U Collection"><img
+ src="http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links_05.GIF"
+ style="border: 0px none ;" name="newimage5"
+ onmouseover="document.newimage5.src='http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links-over_05.GIF';"
+ onmouseout="document.newimage5.src='http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links_05.GIF';"
+ height="31" width="226"></a></td>
+      <td><img
+ src="http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links_06.GIF"
+ height="31" width="2"></td>
+      <td><a
+ href="http://stores.ebay.com/CaratsDirect2U/diamond-education.html"
+ title="Diamond Education"><img
+ src="http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links_07.GIF"
+ style="border: 0px none ;" name="newimage7"
+ onmouseover="document.newimage7.src='http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links-over_07.GIF';"
+ onmouseout="document.newimage7.src='http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links_07.GIF';"
+ height="31" width="184"></a></td>
+      <td><img
+ src="http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links_08.GIF"
+ height="31" width="2"></td>
+      <td><a
+ href="http://search.reviews.ebay.com/members/seli1020_W0QQuqtZg"
+ title="Buyers Guide" target="_blank"><img
+ src="http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links_09.GIF"
+ style="border: 0px none ;" name="newimage9"
+ onmouseover="document.newimage9.src=http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links-over_09.GIF';"
+ onmouseout="document.newimage9.src='http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links_09.GIF';"
+ height="31" width="144"></a></td>
+      <td><img
+ src="http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links-over_09.GIF"
+ height="31" width="2"></td>
+      <td><a
+ href="http://stores.ebay.com/CaratsDirect2U/contact-us.html"
+ title="Contact Us"><img
+ src="http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links_11.GIF"
+ style="border: 0px none ;" name="newimage11"
+ onmouseover="document.newimage11.src='http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links-over_11.GIF';"
+ onmouseout="document.newimage11.src='http://www.caratsdirect2u.com/v/canon-photos/Dont-delete/ebay/top-links_11.GIF';"
+ height="31" width="132"></a></td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
